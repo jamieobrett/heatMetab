@@ -1,0 +1,7 @@
+{
+"undetectedColor": "whitesmoke",
+"FDRthreshold": 0.25,
+"valuesToColors": {"-2.0": "cornflowerblue", "0.0": "white", "2.0": "tomato"},
+"namefile": "C:\\Users\\jamie\\Dropbox (Personal)\\hotMetab\\fullToDisplay.txt",
+"coordfile": "C:\\Users\\jamie\\Dropbox (Personal)\\hotMetab\\hardcodedCoordinatesRenamed.txt"
+}
