@@ -1,6 +1,6 @@
-Nicotinate	nicotinate
+Nicotinate	Nicotinate
 NaMN	NAMN
-Quinolinate	quin
+Quinolinate	Quin
 L-Tryptophan	Trp
 Nicotinamide	NAM
 NAD	NAD
@@ -11,15 +11,15 @@ L-Tyrosine	Tyr
 Phenylalanine	Phe
 Methionine	Met
 Homocysteine	Hcy
-Cystathionine	cystathionine
-2-Oxobutyric acid	oxobutyrate
+Cystathionine	Cystathionine
+2-Oxobutyric acid	Oxobutyrate
 N-Acetylasparagine	N-acetylasparagine
 Asparagine	Asn
 L-Threonine	Thr
 L-Aspartate	Asp
 N-acetylaspartate	NAA
 Citrulline	Cit
-Carbamoyl P	carbamoyl-P
+Carbamoyl P	Carbamoyl-P
 L-Glutamine	Gln
 Putrescine	Put
 Spermidine	Spd
@@ -27,10 +27,10 @@ Spermine	Spm
 Glycine	Gly
 L-Serine	Ser
 L-Cysteine	Cys
-L-Cysteic acid	cysteate
-Argininosuccinic acid	argininosuccinate
+L-Cysteic acid	Cysteate
+Argininosuccinic acid	Argininosuccinate
 DHAP	DHAP
-D-Glucose	glucose
+D-Glucose	Glucose
 Glucose 6-phosphate	G6P
 6P-Gluconolactone	6Pgluconolactone
 Fructose 6-phosphate	F-6P
@@ -40,43 +40,43 @@ Glyceraldehyde 3-phosphate	G-3P
 3PG	3P-G
 2PG	2P-G
 Phosphoenol pyruvate	PEP
-Lactate	lactate
-Pyruvate	pyruvate
+Lactate	Lactate
+Pyruvate	Pyruvate
 CoA	CoA
-Acetyl-CoA	acetyl-CoA
-Citrate	citrate
+Acetyl-CoA	Acetyl-CoA
+Citrate	Citrate
 Oxaloacetate	OAA
-D-Malate	malate
-Fumarate	fumarate
+D-Malate	Malate
+Fumarate	Fumarate
 Arginine	Arg
 Urea	Urea
 Ornithine	Orn
-Guanidinoacetate	guanidinoacetate
+Guanidinoacetate	Guanidinoacetate
 Creatine	Crt
 Creatine Phosphate	CrtP
-Succinate	succinate
-cis-Aconitic acid	cis-aconitate
-Isocitrate	isocitrate
+Succinate	Succinate
+cis-Aconitic acid	cis-Aconitate
+Isocitrate	Isocitrate
 alpha-Ketoglutarate	aKG
 R 2-HG	2HG
-Succinyl-CoA	succinyl-CoA
-Methylmalonyl-CoA	methylmalonyl-CoA
+Succinyl-CoA	Succinyl-CoA
+Methylmalonyl-CoA	Methylmalonyl-CoA
 L-Isoleucine	Ile
 L-Leucine	Leu
 L-Valine	Val
 6-Phospho-D-gluconate	6P-gluconate
-Ribulose-5P	ribulose-5P
-Xylulose-5P	xylulose-5P
-D-Ribose 5-phosphate	ribose-5P
-Sedoheptulose-7-phosphate	sedoheptulose-7P
+Ribulose-5P	Ribulose-5P
+Xylulose-5P	Xylulose-5P
+D-Ribose 5-phosphate	Ribose-5P
+Sedoheptulose-7-phosphate	Sedoheptulose-7P
 Glyceraldehyde 3-phosphate	G-3P
-Erythrose-4P	erythrose-4P
+Erythrose-4P	Erythrose-4P
 Fructose 6-phosphate	F-6P
-N-Carbamoyl-L-aspartate	carbamoyl asparate
+N-Carbamoyl-L-aspartate	Carbamoyl asparate
  L-Dihydroorotate	DHO
-Orotic acid	orotate
+Orotic acid	Orotate
 PRPP	PRPP
-Orotidine-5P	orotidine-5P
+Orotidine-5P	Orotidine-5P
 dCTP	dCTP
 CTP	CTP
 UTP	UTP
@@ -94,12 +94,12 @@ dUMP	dUMP
 dTMP	dTMP
 Deoxycytidine	dC
 Cytidine	C
-Cytosine	cytosine
+Cytosine	Cytosine
 Uridine	U
-Uracil	uracil
+Uracil	Uracil
 Deoxyuridine	dU
 Thymidine	dT
-Thymine	thymine
+Thymine	Thymine
 dGTP	dGTP
 GTP	GTP
 cGMP	cGMP
@@ -107,16 +107,16 @@ dGDP	dGDP
 GDP	GDP
 dGMP	dGMP
 GMP	GMP
-Guanosine	guanosine
-Guanine	guanine
+Guanosine	Guanosine
+Guanine	Guanine
 SAICAR	SAICAR
 AICAR	AICAR
 IMP	IMP
-Inosine	inosine
+Inosine	Inosine
 XMP	XMP
-Xanthosine	xanthosine
-Hypoxanthine	hypoxanthine
-Uric Acid	urate
+Xanthosine	Xanthosine
+Hypoxanthine	Hypoxanthine
+Uric Acid	Urate
 Cyclic AMP	cAMP
 ATP	ATP
 dATP	dATP
@@ -124,9 +124,9 @@ ADP	ADP
 dADP	dADP
 dAMP	dAMP
 AMP	AMP
-Adenosine	adenosine
+Adenosine	Adenosine
 S-Adenosyl-L-homocysteine	SAH
-Adenine	adenine
+Adenine	Adenine
 5-Methylthioadenosine	MTA
 L-Alanine	Ala
 Pyruvate	Pyr
@@ -134,13 +134,13 @@ L-Glutamate	Glu
 gamma-Glutamylcysteine	GGC
 L-Glutathione reduced	GSH
 L-Glutathione oxidized	GSSG
-5-oxoproline	5-oxoproline
-Glutamyl P	glutamyl-P
-Glutamate semialdehyde	glutamate semialdehyde
+5-oxoproline	5-Oxoproline
+Glutamyl P	Glutamyl-P
+Glutamate semialdehyde	Glutamate semialdehyde
 L-Histidine	His
-Pyrroline carboxylate	pyrroline carboxylate
+Pyrroline carboxylate	Pyrroline carboxylate
 L-Proline	Pro
-cis-4-Hydroxy-D-proline	hydroxyproline
+cis-4-Hydroxy-D-proline	Hydroxyproline
 S-adenosylmethionine	SAM
 5-Methyltetrahydrofolate	5-M-THF
 Tetrahydrofolate	5-THF
