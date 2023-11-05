@@ -1,6 +1,6 @@
-10-14-2023
+11-5-2023
 
-heatMetab.py is a small program that automates metabolomics data pathway visualization. It takes processed metabolomics data and a curated metabolite pathway map (or the default) along with user-defined parameters and displays the metabolites in that map by color-coded change magnitude and fill-coded significance.
+heatMetab.py is a small program that automates metabolomics data pathway visualization. It takes processed metabolomics data and a curated metabolite pathway map (or the default) along with user-defined parameters and displays the metabolites in that map by color-coded change magnitude and fill-coded significance (a "heatplot").
 
 ############################################################################
 INSTALLATION
