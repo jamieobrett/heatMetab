@@ -267,6 +267,33 @@ txBox_leg = slide_leg.shapes.add_textbox(Inches(PPT_WIDTH_IN/4),0,Inches(PPT_WID
 tf_leg = txBox_leg.text_frame
 tf_leg.text = "Legend. Color shows change magnitude. Fill is present for FDR " + str(paramDict['FDRthreshold'])
 slide_leg.shapes.add_picture(COLORBARIMAGE_PREFIX + '.png',left=Inches(PPT_WIDTH_IN/4),top=Inches(PPT_HEIGHT_IN/4))
+#add the 'not detected' legend
+left = Inches(PPT_WIDTH_IN/2)
+top = Inches(PPT_HEIGHT_IN/2)
+width = Inches(BOX_WIDTH_IN)
+height = Inches(BOX_HEIGHT_IN)
+undetectedDummy = hot.Metabolite("undetectedDummy",None,None)
+undetectedDummy.gimmeColors(colormap=mycolormap, dataFloor=fc_floor, dataCeil=fc_ceil, fdrThresh=paramDict['FDRthreshold'], undetectedColor=paramDict['undetectedColor'])
+myfillcolor = (255,255,255)
+myoutlinecolor = tuple(int(x*255) for x in undetectedDummy.outlineCol[0:3])
+shape = slide_leg.shapes.add_shape(MSO_SHAPE.RECTANGLE, left, top, width, height)
+shape.shadow.inherit = False
+fill = shape.fill
+fill.solid()
+fill.fore_color.rgb = RGBColor(*myfillcolor)
+line = shape.line
+line.color.rgb = RGBColor(*myoutlinecolor)
+line.width = Pt(LINE_WIDTH_PT)
+text_frame = shape.text_frame
+p = text_frame.paragraphs[0]
+run = p.add_run()
+run.text = str('Not detected')
+font = run.font
+font.name = 'Arial Narrow'
+font.color.rgb = RGBColor(0,0,0)
+font.size = Pt(FONT_SIZE_PT)
+text_frame.paragraphs[0].alignment = PP_ALIGN.CENTER
+text_frame.word_wrap = True
 
 #save
 prs.save(outputName)

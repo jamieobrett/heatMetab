@@ -1,90 +1,124 @@
-cis-Aconitic acid	-1.09	0.0018
-HMG	-1.19	0.0050
-Quinolinate	-1.25	0.0061
-alpha-Ketoglutarate	-1.66	0.0061
-L-Proline	1.09	0.0072
-L-Leucine	1.00	0.0095
-Glycerol	-1.95	0.0104
-L-Isoleucine	0.94	0.0129
-O-Phosphorylethanolamine	1.58	0.0129
-Cytidine	-1.04	0.0171
-Fumarate	-0.99	0.0171
-L-Glutathione reduced	1.69	0.0176
-UMP	1.61	0.0188
-AMP	1.40	0.0195
-D-Malate	-0.97	0.0195
-Hypoxanthine	1.36	0.0208
-Phenylalanine	0.89	0.0215
-Orotic acid	-0.81	0.0320
-Methionine	0.47	0.0320
-5-aminovalerate	-1.08	0.0320
-Adenine	1.14	0.0329
-N-Acetylserine	0.64	0.0444
-L-Valine	0.76	0.0459
-Asparagine	-0.74	0.0627
-3-Aminoisobutanoate	0.51	0.0687
-Lactate	0.61	0.0692
-Inosine	0.92	0.0731
-L-Cysteic acid	-1.49	0.0875
-D-Glucose	-1.55	0.0875
-L-Tyrosine	0.68	0.0908
-Kynurenine	-0.85	0.1061
-Glycine	-0.37	0.1068
-ADP	1.08	0.1105
-Citrate	-0.77	0.1105
-Hexitol	-0.84	0.1243
-CDP-choline	0.87	0.1243
-L-Glutamate	0.45	0.1299
-L-Glutamine	-0.19	0.1496
-3-Methylhistidine	-0.37	0.1496
-L-Alanine	0.36	0.1684
-L-Serine	-0.66	0.1684
-N-Acetylneuraminate	0.02	0.1740
-L-Tryptophan	0.44	0.2137
-trans-4-Hydroxy-L-proline	0.38	0.2723
-D-Ribose 5-phosphate	0.92	0.3499
-Hypotaurine	1.84	0.3515
-5-oxoproline	-0.49	0.3515
-Citramalate	-0.29	0.3548
-UDP	0.50	0.4269
-Cysteinesulfinic acid	-0.51	0.4290
-N-Carbamoyl-L-aspartate	-0.92	0.4891
-2PG	-0.55	0.5318
-Glyceraldehyde 3-phosphate	0.64	0.5359
-Guanosine	-0.39	0.5359
-3PG	-0.54	0.5359
-GTP	-0.25	0.5359
-Gluconate	-0.79	0.5359
-L-carnitine	-0.06	0.5514
-Uracil	0.34	0.6077
-Ophthalmic acid	-0.32	0.6077
-Glucose 6-phosphate	0.59	0.6494
-Cystine	0.20	0.7278
-DHAP	-0.07	0.7432
-Uridine	-0.54	0.7432
-Citrulline	0.18	0.7606
-Adenosine	-0.37	0.7675
-Creatine	-0.55	0.7737
-cis-4-Hydroxy-D-proline	0.34	0.8006
-Creatinine	0.02	0.8051
-L-Histidinol	-0.42	0.8289
-L-Aspartate	0.58	0.8289
-L-Glutamate 5-semialdehyde	-0.13	0.8289
-Aminoadipic acid	-0.21	0.8310
-UDP-glucose	-0.10	0.8703
-Pantothenic acid	0.29	0.8703
-Galactose-1-phosphate	-0.15	0.8703
-Guanidinosuccinic acid	0.13	0.8703
-Fructose 6-phosphate	-0.16	0.8703
-Uric Acid	0.17	0.8703
-Mannose-6-phosphate	-0.16	0.8744
-ATP	0.08	0.9046
-Guanine	0.15	0.9131
-NAD	-0.37	0.9289
-L-Threonine	0.16	0.9309
-dUMP	0.08	0.9358
-D-Glucosamine	-0.16	0.9491
-Succinate	-0.13	0.9925
-Phosphorylcholine	-0.08	0.9968
-Adenosine 5'-diphosphoribose	-0.07	0.9968
-L-Glutathione oxidized	0.15	0.9968
+Arginine	0.352833747	0.00181572
+Asparagine	-0.525577914	0.003283228
+L-Alanine	-0.179616506	0.020043362
+L-Aspartate	0.897571102	4.16E-06
+L-Glutamate	-0.05622766	0.436419931
+L-Glutamine	0.223334688	0.000209109
+L-Isoleucine	-0.364597541	0.26870934
+L-Leucine	-0.424608765	0.153761547
+L-Proline	-0.400574866	0.009109236
+L-Serine	0.903265891	0.000116899
+L-Threonine	0.115652059	0.00181572
+L-Tryptophan	0.061650592	0.213193794
+L-Tyrosine	-0.206815689	0.148674177
+L-Valine	-0.42638296	0.095653762
+Lysine	0.274385075	0.008766126
+Methionine	0.072700623	0.119304875
+Phenylalanine	0.077603672	0.172768649
+2-Oxobutyric acid	-0.247149437	0.064863429
+Betaine	0.323300277	0.000957809
+Carnosine	-0.124401007	0.110382963
+cis-4-Hydroxy-D-proline	-0.046344822	0.046730886
+Homoserine	0.113772941	0.00181572
+O-Acetylserine	-0.863262618	0.000702856
+Phosphoserine	1.151126831	0.00181572
+S-Adenosyl-L-homocysteine	0.414556303	0.012138457
+Taurine	0.228694066	0.000141627
+trans-4-Hydroxy-L-proline	-0.082504099	0.050080895
+CDP-ethanolamine	-0.051624139	0.527057068
+CMP-2-aminoethylphosphonate	-0.416548648	3.57E-05
+Cyclic ADP-ribose	-0.03098225	0.050080895
+D-Glucosamine	0.521877384	0.000131519
+GDP-alpha-D-mannose	-0.246405918	0.000957809
+GDP-fucose	0.122288563	0.027839349
+UDP-GalNAc	-0.036756487	0.436419931
+UDP-glucose	-0.063062651	0.148674177
+UDP-N-acetylglucosamine	-0.036756487	0.436419931
+Uridine 5'-diphosphogalactose	-0.06296918	0.148674177
+FAD	0.191794969	0.028254764
+Folic acid	1.767958259	0.001048052
+NAD	-0.077754144	0.002964372
+NADH	0.73881951	0.063753859
+Nicotinamide	0.148863504	0.222353913
+Riboflavin	0.6426881	0.048288882
+Creatine	-0.069057638	0.019477992
+Creatine Phosphate	0.018122299	0.802812131
+Creatinine	-0.082318734	0.469284833
+2PG	0.311780579	0.028287396
+D-Glucose	0.265332822	0.074350978
+DHAP	-0.690890823	0.00181572
+Galactose-1-phosphate	-0.44694177	0.00446671
+Glucose 6-phosphate	0.043294274	0.209933585
+Glyceraldehyde 3-phosphate	-1.574466799	0.000116899
+Glycerol 3-phosphate	-0.665394033	8.12E-05
+Lactate	-1.165249077	0.001848429
+Phosphoenol pyruvate	0.116957266	0.113128672
+Pyruvate	-0.299585667	0.143838231
+3-Phenyllactic acid	0.342297547	0.000702856
+4-Oxoproline	-0.234190441	0.00873944
+Allantoin	0.240931248	0.00181572
+Aminoadipic acid	-0.230735277	0.002014327
+gamma-L-Glutamyl-L-alanine	-1.172336859	0.000702856
+Glyoxylic acid	-0.002725968	0.873744848
+Hexitol	-0.52166475	0.009072622
+Hypotaurine	1.059068788	0.000212822
+L-carnitine	0.162392324	0.013152821
+Methyl beta-galactoside	-2.097294807	4.16E-06
+N-Acetylserine	-0.886837813	0.000730748
+O-Phosphorylethanolamine	-0.17029619	0.003388931
+Phenylpyruvic acid	1.571264767	0.00020151
+Phosphorylcholine	0.157367526	0.025217481
+trans-1,2-Cyclohexanediol	0.318888563	0.260809078
+6-Phospho-D-gluconate	-0.510714634	0.000730748
+D-Ribose 5-phosphate	-0.843730944	0.000116899
+Fructose 1,6-bisphosphate	-0.5605085	0.00181572
+Fructose 6-phosphate	-0.449681725	0.004287719
+Sedoheptulose-7-phosphate	-0.821055468	0.000211789
+Adenine	-0.327232078	0.005794041
+ADP	-0.0767939	0.434929612
+AICAR	0.68749159	0.074350978
+AMP	-0.236953291	0.028039756
+ATP	0.509679324	0.000116899
+CDP-choline	-0.254922425	0.00181572
+Cyclic AMP	0.222011198	0.008766126
+FGAR	1.591941742	0.388551315
+GDP	0.121895673	0.172768649
+GMP	0.401509223	0.000116899
+GTP	0.697260645	0.00013381
+Guanosine	0.620329667	0.00181572
+Hypoxanthine	-5.98075053	0.006212369
+IMP	0.287799625	0.00280291
+Inosine	0.70908581	0.000730748
+Uric Acid	-0.782272079	0.001803657
+Xanthine	-0.14132338	0.228964798
+Cytidine	0.544474774	0.001048052
+N-Carbamoyl-L-aspartate	-0.350310271	0.004085779
+Orotic acid	1.627631885	0.034040698
+Orotidine	0.008855237	0.843758307
+TMP	1.054912356	0.074350978
+UDP	0.113041727	0.141934028
+UMP	0.149027565	0.172768649
+Uracil	0.028482162	0.662212943
+Uridine	0.513362721	0.010336567
+UTP	0.562116653	0.000108807
+5-oxoproline	-0.171347215	0.030836398
+gamma-Glutamylcysteine	-0.012533959	0.99397557
+L-Glutathione oxidized	-0.181163674	0.172768649
+L-Glutathione reduced	-0.052532262	0.375848171
+NADP	-0.165036644	0.030836398
+NADPH	1.747530022	0.00181572
+Ophthalmic acid	-0.131088437	0.721974668
+Acetyl-CoA	-0.62436389	0.200669383
+alpha-Ketoglutarate	-0.245916784	0.074350978
+cis-Aconitic acid	0.068560372	0.436419931
+Citrate	0.108184545	0.01914247
+Coenzyme A	0.59912316	0.00181572
+Fumarate	0.029699958	0.1294822
+Isocitrate	-0.114588537	0.403911667
+Malate	-0.009036561	0.99132064
+R 2-HG	0.166551859	0.103252505
+Succinate	0.457352393	0.005867011
+trans-Aconitic acid	4.033785345	0.190622238
+Argininosuccinic acid	0.040451173	0.07509452
+Citrulline	0.288070054	0.060297371
+N-acetylglutamate	-0.644664983	8.13E-05

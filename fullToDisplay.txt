@@ -69,7 +69,6 @@ Ribulose-5P	Ribulose-5P
 Xylulose-5P	Xylulose-5P
 D-Ribose 5-phosphate	Ribose-5P
 Sedoheptulose-7-phosphate	Sedoheptulose-7P
-Glyceraldehyde 3-phosphate	G-3P
 Erythrose-4P	Erythrose-4P
 Fructose 6-phosphate	F-6P
 N-Carbamoyl-L-aspartate	Carbamoyl asparate
@@ -146,3 +145,8 @@ S-adenosylmethionine	SAM
 Tetrahydrofolate	5-THF
 "5,10-Methylenetetrahydrofolate"	"5,10-Methylene-THF"
 10-Formyltetrahydrofolate	10-F-THF
+NADP	NADP
+NADPH	NADPH
+Taurine	Taurine
+Hypotaurine	Hypotaurine
+Cysteine sulfinate	CSA
