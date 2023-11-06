@@ -34,9 +34,9 @@ D-Glucose	Glucose
 Glucose 6-phosphate	G6P
 6P-Gluconolactone	6Pgluconolactone
 Fructose 6-phosphate	F-6P
-"Fructose 1,6-bisphosphate"	"F-1,6bP"
+Fructose 1,6-bisphosphate	F-1,6bP
 Glyceraldehyde 3-phosphate	G-3P
-"1,3BPG"	"1,3bPG"
+1,3BPG	1,3bPG
 3PG	3P-G
 2PG	2P-G
 Phosphoenol pyruvate	PEP
@@ -143,7 +143,7 @@ cis-4-Hydroxy-D-proline	Hydroxyproline
 S-adenosylmethionine	SAM
 5-Methyltetrahydrofolate	5-M-THF
 Tetrahydrofolate	5-THF
-"5,10-Methylenetetrahydrofolate"	"5,10-Methylene-THF"
+5,10-Methylenetetrahydrofolate	5,10-Methylene-THF
 10-Formyltetrahydrofolate	10-F-THF
 NADP	NADP
 NADPH	NADPH
