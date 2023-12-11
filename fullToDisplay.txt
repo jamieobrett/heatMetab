@@ -149,4 +149,4 @@ NADP	NADP
 NADPH	NADPH
 Taurine	Taurine
 Hypotaurine	Hypotaurine
-Cysteine sulfinate	CSA
+Cysteinesulfinic acid	CSA
