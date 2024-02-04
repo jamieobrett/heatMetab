@@ -1,7 +1,7 @@
 {
 "undetectedColor": "whitesmoke",
-"FDRthreshold": 0.05,
-"valuesToColors": {"-1.0": "cornflowerblue", "0.0": "white", "1.0": "tomato"},
+"FDRthreshold": 0.15,
+"valuesToColors": {"-2.0": "cornflowerblue", "0.0": "white", "2.0": "tomato"},
 "namefile": "fullToDisplay.txt",
 "coordfile": "hardcodedCoordinates.txt"
 }

@@ -72,7 +72,7 @@ Sedoheptulose-7-phosphate	Sedoheptulose-7P
 Erythrose-4P	Erythrose-4P
 Fructose 6-phosphate	F-6P
 N-Carbamoyl-L-aspartate	Carbamoyl asparate
- L-Dihydroorotate	DHO
+L-Dihydroorotate	DHO
 Orotic acid	Orotate
 PRPP	PRPP
 Orotidine-5P	Orotidine-5P
@@ -115,6 +115,7 @@ Inosine	Inosine
 XMP	XMP
 Xanthosine	Xanthosine
 Hypoxanthine	Hypoxanthine
+Xanthine	Xanthine
 Uric Acid	Urate
 Cyclic AMP	cAMP
 ATP	ATP
