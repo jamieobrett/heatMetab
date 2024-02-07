@@ -151,3 +151,5 @@ NADPH	NADPH
 Taurine	Taurine
 Hypotaurine	Hypotaurine
 Cysteinesulfinic acid	CSA
+Glycerol	Glycerol
+Glycerol 3-phosphate	Glycerol-3P
