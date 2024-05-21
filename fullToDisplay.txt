@@ -26,6 +26,7 @@ Spermidine	Spd
 Spermine	Spm
 Glycine	Gly
 L-Serine	Ser
+Phosphoserine	P-Ser
 L-Cysteine	Cys
 L-Cysteic acid	Cysteate
 Argininosuccinic acid	Argininosuccinate
@@ -150,3 +151,8 @@ NADPH	NADPH
 Taurine	Taurine
 Hypotaurine	Hypotaurine
 Cysteine sulfinate	CSA
+Glycerol 3-phosphate	Glycerol-3P
+Glycerol	Glycerol
+UDP-glucose	UDP-G
+UDP-xylose	UDP-X
+Xanthine	Xanthine
