@@ -45,7 +45,7 @@ class MetabNode:
     """A class for metabolite nodes"""
     def __init__(self, name, left, top, width, height):
         self.nodeIndex = -1 #0-based
-        self.name = name
+        self.name = name.upper()
         self.left = left
         self.top = top
         self.width = width

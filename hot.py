@@ -45,7 +45,7 @@ def normalizeTheseCoordinates(coordList,boxwidth,boxheight,offsetx,offsety):
 class Metabolite:
     """A class for metabolites"""
     def __init__(self, name, fc, q):
-        self.name = name
+        self.name = name.upper()
         self.nodeIndices = [] #can appear multiple times, or not at all
         self.fc = fc
         self.q = q

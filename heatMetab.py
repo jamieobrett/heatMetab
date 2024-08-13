@@ -85,7 +85,7 @@ with open(args.infile, 'r', encoding="utf-8") as file:
         split_line[1] = float(split_line[1])
         split_line[2] = float(split_line[2])
         #add to the Metabolite class set
-        metabDict[split_line[0]] = hot.Metabolite(split_line[0], split_line[1], split_line[2])
+        metabDict[split_line[0].upper()] = hot.Metabolite(split_line[0], split_line[1], split_line[2])
 fc_max = max(o.fc for o in metabDict.values())
 fc_min = min(o.fc for o in metabDict.values())
 print('Found',len(metabDict),'metabolites with min fold-change',fc_min,'and max fold-change',fc_max)
@@ -123,8 +123,8 @@ print('Processing',paramDict['namefile'])
 with open(paramDict['namefile'], 'r', encoding="utf-8") as file:
     for my_line in file:
         split_line = my_line.rstrip().split('\t') #fullname, displayname
-        if split_line[0] in metabDict:
-            metabDict[split_line[0]].displayName = split_line[1]
+        if split_line[0].upper() in metabDict:
+            metabDict[split_line[0].upper()].displayName = split_line[1]
         else:
             print(split_line[0],'is not a full name in the edgefile or the infile')
 print('Done processing the full name - display name file')
