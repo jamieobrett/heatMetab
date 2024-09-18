@@ -144,8 +144,6 @@ Methyltetrahydrofolic acid	Methyl-THF
 Tetrahydrofolic acid	THF
 Methylenetetrahydrofolic acid	Methylene-THF
 Formyltetrahydrofolic acid	Formyl-THF
-NADP	NADP
-NADPH	NADPH
 Taurine	Taurine
 Hypotaurine	Hypotaurine
 Cysteine sulfinic acid	CSA
